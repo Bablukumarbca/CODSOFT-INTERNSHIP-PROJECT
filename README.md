@@ -10,7 +10,7 @@ You can incorporate additional details as follows:
 5. Limit the number of attempts the user has to guess the number.
 6. Add the option for multiple rounds, allowing the user to play again.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
-
+<br>
 TASK 2<br>
 STUDENT GRADE CALCULATOR<br><br>
 1. Input: Take marks obtained (out of 100) in each subject.<br>
