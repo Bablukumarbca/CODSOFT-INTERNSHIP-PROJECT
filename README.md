@@ -12,9 +12,9 @@ You can incorporate additional details as follows:
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
 TASK 2<br>
-STUDENT GRADE CALCULATOR<br>
-Input: Take marks obtained (out of 100) in each subject.<br>
-Calculate Total Marks: Sum up the marks obtained in all subjects.<br>
-Calculate Average Percentage: Divide the total marks by the total number of subjects to get theaverage percentage.<br>
-Grade Calculation: Assign grades based on the average percentage achieved.<br>
-Display Results: Show the total marks, average percentage, and the corresponding grade to the user<br>
+STUDENT GRADE CALCULATOR<br><br>
+1. Input: Take marks obtained (out of 100) in each subject.<br>
+2. Calculate Total Marks: Sum up the marks obtained in all subjects.<br>
+3. Calculate Average Percentage: Divide the total marks by the total number of subjects to get theaverage percentage.<br>
+4. Grade Calculation: Assign grades based on the average percentage achieved.<br>
+5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user<br>
