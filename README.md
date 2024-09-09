@@ -1,4 +1,4 @@
-# CodSoft-Internship-projectt
+# CodSoft_Internship_projectt
 TASK 1<br>
 NUMBER GAME
 1. Generate a random number within a specified range, such as 1 to 100.
