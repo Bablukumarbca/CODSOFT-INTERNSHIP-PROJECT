@@ -9,7 +9,7 @@ class atminterface implements interface1
 	{
 		System.out.println(" >>>>>>>>>>>>>>>> ATM INTERFACE <<<<<<<<<<<<<<<< \n");
 	}
-	@Override
+
 	public void register()
 	{
 		Scanner sc=new Scanner(System.in);
@@ -24,7 +24,7 @@ class atminterface implements interface1
 		this.password=sc.nextLine();
 		
 	}
-	@Override
+	
 	public boolean login()
 	{
 		Scanner sc=new Scanner(System.in);
@@ -59,7 +59,7 @@ class atminterface implements interface1
 		System.out.println("\n:>:>:>:>:> LOGIN FINISED <:<:<:<:<:\n");
 		return isLogin;
 	}
-	@Override
+
 	public void deposit()
 	{
 		Scanner sc=new Scanner(System.in);
@@ -85,7 +85,7 @@ class atminterface implements interface1
 			System.out.println(" Exception is :"+ e);
 		}
 	}
-@Override
+	
 	public void withdraw()
 	{
 		Scanner sc=new Scanner(System.in);
@@ -111,7 +111,6 @@ class atminterface implements interface1
 			System.out.println(" Exceptin is: "+ e);
 		}
 	}
-	 @Override
 	public void checkBalance()
 	{
 		System.out.println(" Your bank balance is :"+balance);
